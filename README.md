@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning**
 
-- 💬 Ask me about **dsa, java, python and react**
+- 💬 Ask me about **DSA, Java, Python and React**
 
 - 📫 How to reach me **tarunvyshnav777@gmail.com**
 
